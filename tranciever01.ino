@@ -1,12 +1,9 @@
 /**
- * Copyright (C) 2012 James Coliz, Jr. <maniacbug@ymail.com>
- *
- * This program is free software; you can redistribute it and/or
- * modify it under the terms of the GNU General Public License
- * version 2 as published by the Free Software Foundation.
- *
- * Update 2014 - TMRh20
- */
+ Author name : Izera ifituburyo pacifique 
+ 
+ University of carnegie mellon Africa 
+ department : University of carnegie melon , Electrical and computer engineering
+  */
 
 /**
  * Simplest possible example of using RF24Network,
@@ -145,3 +142,8 @@ void loop(void) {
   
 
 }
+
+/*
+
+code 
+*/
